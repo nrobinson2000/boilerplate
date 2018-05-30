@@ -4,3 +4,8 @@
 # boilerplate
 
 My attempt at creating the perfect Particle boilerplate firmware
+
+## TODO:
+
+* Document the code.
+* Integrate CI changes back into [nrobinson2000/po](https://github.com/nrobinson2000/po).
