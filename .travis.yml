@@ -2,8 +2,11 @@ dist: trusty
 sudo: required
 language: generic
 
-script:
+install:
   - ci/travis.sh
+
+script:
+  - po photon build
 
 cache:
   directories:
